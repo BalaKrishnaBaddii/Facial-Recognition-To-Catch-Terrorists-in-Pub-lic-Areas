@@ -1,0 +1,50 @@
+Now a days the world was fulfilling crime and terrorism in day to day life, we wasn’t control sometimes some situations. In India in 2008 Mumbai attacks was done and died number of innocent people because of there is no one wasn’t identified them at that time. Now a day’s technology is well developed to capturing criminals and their activities using CC-TV’s, but not always every time. In this application we can identify the criminals and terrorists using Open-CV face recognition software. This application was made for only who was working for Intelligence department in India. Here we can develop and application to authorised users to access terrorist records to Add,Delete,Display and Analyse (facial recognizing with cameras) them.
+
+
+facial recognition to catch terrorists in public area USER MANUEL......
+
+
+
+			---------------------------------------Login / signup----------------------------------------------------
+
+if you wanted to this software for you need to clik ------------> on  create New Account 
+
+1)It will asks your details after filling this form your account will be careated and you get access to use this software...........
+2) than enter you employee id and password to log in  to your account easily..........
+
+
+
+
+
+                                        		--------------------------------------- Add Terrorist---------------------------------------------------------
+
+1) for recognising any faces of a terrorist first you need to fill the terrorist details to store in data base .....
+2) Upload a photo of a terrorist after filling details(Note: upload image must be lessthan 1 MB and .png format)
+3)than click on Train image Button to sucessfully store the  terrorist details .
+
+
+
+			---------------------------------------Search /Delete-------------------------------------------------------------
+
+
+1) click on search button and enter name of a terrorist to saw the terrorist details.....
+2)click on delete button to delete terrorist details sucessfully after search the details of terrorists.
+
+
+			-----------------------------------------Analize Terrorist---------------------------------------------------------
+
+
+This button connects to database and cc-tv this will allow you to capture images countinously from cc camera and recognising images and show details of terrorist name and his country and other details of his attcks on the screen ..
+
+Note : If you wanted to Exit the analizer MUST click on ""Q"" in keyboard...
+
+
+
+Thank for using Facial Recognistion sotware .............................................
+
+
+
+
+
+author : balakrishna baddi
+all rights reserved @ balakrishna baddi
